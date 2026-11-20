@@ -63,7 +63,7 @@ The prompt patterns include:
 
 ### Define the Scenario and Use Case
 
-**Scenario: Smart Irrigation System**
+## Scenario: Smart Irrigation System
 
 Traditional irrigation methods often waste water because farmers manually monitor soil conditions and operate water pumps. To overcome this problem, a Smart Irrigation System is developed using IoT sensors, embedded controllers, and automated water pumps.
 
@@ -292,4 +292,5 @@ The seven prompt engineering patterns were applied to the Smart Irrigation Syste
 These techniques demonstrate how prompt engineering can be used in smart agriculture to design efficient irrigation systems, conserve water, and improve agricultural productivity.
 
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+# Result: 
+The various types of Prompts are executed successfully with generated the report.
